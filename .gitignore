@@ -1,5 +1,6 @@
 .git
 .bak
 .log
-.vs
+.a
 .idea
+.vscode
