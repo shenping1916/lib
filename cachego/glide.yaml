@@ -1,0 +1,4 @@
+package: ""
+import:
+- package: github.com/satori/go.uuid
+- package: github.com/golang/glog
