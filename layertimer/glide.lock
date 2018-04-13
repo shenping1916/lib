@@ -1,0 +1,6 @@
+hash: bacd1dd9dfa5e1a2cca13cb363c49b3cb9e7f69987ab85b0f512b7fd662b60c6
+updated: 2018-04-13T12:43:36.3567512+08:00
+imports:
+- name: github.com/jakehl/goid
+  version: 78c60845d002c045c4b3ae10faf9f259a569dd71
+testImports: []
