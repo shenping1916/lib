@@ -1,8 +1,0 @@
-hash: 1e3c72f67391ad654b313a3aac9cf2c01af16800d805d5534165057094ae1698
-updated: 2018-02-28T09:50:24.2706512+08:00
-imports:
-- name: github.com/golang/glog
-  version: 44145f04b68cf362d9c4df2182967c2275eaefed
-- name: github.com/satori/go.uuid
-  version: 36e9d2ebbde5e3f13ab2e25625fd453271d6522e
-testImports: []

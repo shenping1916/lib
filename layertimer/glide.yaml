@@ -1,3 +1,0 @@
-package: lib/layertimer
-import:
-- package: github.com/jakehl/goid
