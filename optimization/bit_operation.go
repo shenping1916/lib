@@ -29,7 +29,9 @@ func ByteReverse(a int) int {
     return a
 }
 
-// 十进制反向填充(int转*[]byte)
+// int转字符串,wid为int宽度
+// 转换后append到[]byte
+// 类似c的iota写法
 // 来自官方标准库：/src/log/log.go
 func itoa(buf *[]byte, i int, wid int) {
 	// Assemble decimal in reverse order.
